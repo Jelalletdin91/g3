@@ -12,12 +12,13 @@ const translations = {
     Universities: "Universities",
     residence:"Resdence procedures",
     apply:"APPLY",
+    end:"Send",
     How: "How to apply?",
-    HowH1: "1. If you want to study in Turkey, you can do it easily.",
-    HowH2: "1. You need to click the button above named 'GLOBAL'.",
-    HowH3: "2. Then fill out the form and click the 'Send' button.",
-    HowH4: "3. Please WAIT. We will call you.",
-    HowH5: "4. If we haven't called, you can send an email or SMS.",
+    HowH1: "1. If you want to study in Turkey, you can do it easily.  First you need click button Apply.",
+    HowH2: "2. So if you click to the Apply there have 3 choices. You have to choose one.",
+    HowH3: "3. After you need to fill the blank, and click the button \"Send\".",
+    HowH4: "4. After please WAIT. We will call.",
+    HowH5: "5. If we have not called you can send an email or sms.",
     agencyName:"Name of your Agency if you have:",
     adresse:"Adresse: Şirinevler, Gediz Sk. no:10/B, 34134 Bahçelievler/İstanbul",
     all:"All Universities",
@@ -319,6 +320,7 @@ const translations = {
      studyA:"Apply for study",
      transkript:"Upload Transcript",
      grades:"Upload Grades",
+     passport:"Upload Passport:",
 
 
   },
@@ -345,9 +347,10 @@ const translations = {
 
     apply:"ЗАЯВЛЕНИЕ",
     How: "Как подать заявку?",
-    HowH1: "1. Если вы хотите учиться в Турции — это легко.",
-    HowH2: "1. Нажмите на кнопку выше с надписью 'GLOBAL'.",
-    HowH3: "2. Затем заполните форму и нажмите 'Отправить'.",
+    end:"Отправит",
+    HowH1: "1. Если вы хотите учиться в Турции — это легко. Сначала надо нажат на кнопку Заявления.",
+    HowH2: "2. Если вы нажали на кнопку Заявления то там ест 3 выбораю. Вы должны выбрат один.",
+    HowH3: "3. Затем заполните форму и нажмите \"Отправить\".",
     HowH4: "3. Пожалуйста, ЖДИТЕ. Мы вам позвоним.",
     HowH5: "4. Если мы не позвонили — отправьте email или sms.",
     agencyName:"Название вашего агентства, если у вас есть:",
@@ -636,7 +639,7 @@ const translations = {
      studyA:"Ради Учёбы",
      transkript:"Добавьте Транскрипт",
      grades:"Добавьте Аттестат",
-     
+     passport:"Добавьте Пасспорт",
    
       },
   tr: {
@@ -659,12 +662,13 @@ const translations = {
     aboutmainTextOV:"Öğrenci Vizesi",
     residence:"Ikamet işlemleri",
     apply:"BAŞVUR",
+    end:"Gönder",
     How: "Nasıl başvurulur?",
-    HowH1: "1. Türkiye'de okumak istiyorsanız bu çok kolay.",
-    HowH2: "1. Yukarıdaki 'GLOBAL' butonuna tıklayın.",
-    HowH3: "2. Formu doldurun ve 'Gönder' butonuna tıklayın.",
-    HowH4: "3. Lütfen BEKLEYİN. Sizi arayacağız.",
-    HowH5: "4. Aramazsak, bize e-posta veya sms gönderin.",
+    HowH1: "1. Türkiye'de okumak istiyorsanız bu çok kolay. ILk olarak Başvur butonuna tıklamanız lazım.",
+    HowH2: "2.Başvur butonu'na tıkladığınızda 3 seçeneğiniz var. Birini seçmeniz gerekiyor.",
+    HowH3: "3. Formu doldurun ve \"Gönder\" butonu'na tıklayın.",
+    HowH4: "4. Lütfen BEKLEYİN. Sizi arayacağız.",
+    HowH5: "5. Aramazsak, bize e-posta veya sms gönderin.",
     labelP: "Bölüminizi seçiniz:",
     agencyName:"Eğer varsa, acentenizin adı:",
     adresse:"Adres: Şirinevler, Gediz Sk. no:10/B, 34134 Bahçelievler/İstanbul",
@@ -951,6 +955,7 @@ const translations = {
        studyA:"Okul için",
        transkript:"Transkripti ýükleyin",
        grades:"Notları ýükleyin",
+       passport:"Pasaporty ýükleyin"
   },
   tu: {
     mainText: "Geliň potensialy açalyň.",
@@ -965,12 +970,13 @@ const translations = {
     Universities: "Uniwersitetler",
     residence:"Ikamet işleri",
     apply:"ÝÜZ TUTUŇ",
+    end:"Iber",
     How: "Nädip ýüz tutmaly?",
-    HowH1: "1. Türkiýede okamak isleseňiz bu örän aňsat.",
-    HowH2: "1. Ýokardaky 'GLOBAL' düwmesine basyň.",
-    HowH3: "2. Formany dolduryň we 'Iber' düwmesine basyň.",
-    HowH4: "3. Garaşyň. Biz size jaň ederis.",
-    HowH5: "4. Eger biz jaň etmedik bolsak, bize e-poçta ýa-da sms iberiň.",
+    HowH1: "1. Türkiýede okamak isleseňiz bu örän aňsat. Ilki bilen  Ýüz tutuň dügmesine basyň",
+    HowH2: "2. Eger Ýüz tutuň dügesine basan bolsaňyz onda siziň 3 saýlawyňyz bar. Siz birini saylamaly.",
+    HowH3: "3. Formany dolduryň we \"Iber\" düwmesine basyň.",
+    HowH4: "4. Garaşyň. Biz size jaň ederis.",
+    HowH5: "5. Eger biz jaň etmedik bolsak, bize e-poçta ýa-da sms iberiň.",
     labelP: "Bölümıňizi saýlaň:",
     agencyName:"Agentligiňiziň ady, eger bar bolsa:",
     adresse:"Salgymyz: Şirinevler, Gediz Sk. no:10/B, 34134 Bahçelievler/İstanbul",
@@ -1265,7 +1271,7 @@ const translations = {
    studyA:"Okuw üçin",   
    transkript:"Transkripti ýükläň",
    grades:"Otestaty ýükläň",
-
+   passport:"Pasporty ýükläň"
   }
 };
 
